@@ -11,7 +11,7 @@ A jegyzetek befényképezett füzetlapokból, tanári anyagokból és tankönyvi
 ## Mit találsz itt?
 
 - **[Jegyzetsablon](https://github.com/school-notes-hub/llm-school-notes-template)** – a jegyzetekhez használt közös szerkezet, szabályok és eszközök. Ebből más is elindíthatja a saját, privát jegyzetgyűjteményét.
-- **[Benedek tanulóoldala](https://github.com/school-notes-hub/benedek)** és **[Barna tanulóoldala](https://github.com/school-notes-hub/barna)** – a készülő weboldalak projektjei. Egyelőre előkészítés alatt állnak, a linkek a repóikra mutatnak.
+- **[Benedek tanulóoldala](https://github.com/school-notes-hub/benedek9)** és **[Barna tanulóoldala](https://github.com/school-notes-hub/barna11)** – a készülő weboldalak projektjei. Egyelőre előkészítés alatt állnak, a linkek a repóikra mutatnak.
 
 <br />
 
