@@ -8,10 +8,27 @@ A jegyzetek befényképezett füzetlapokból, tanári anyagokból és tankönyvi
 
 <br />
 
+## Hogyan készül a háttérben?
+
+Az **[LLM wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)** egy AI segítségével gondozott, összekapcsolt jegyzetgyűjtemény: az új forrásokból a meglévő témalapok is frissülnek. A linken Andrej Karpathy eredeti elképzelése olvasható.
+
+A fájlok szervezéséhez az **[Open Knowledge Format (OKF)](https://github.com/GoogleCloudPlatform/open-knowledge-format)** ad nyílt, szolgáltatófüggetlen formátumot. Egyszerű szövegfájlokat és a tartalmukat leíró adatokat használ, így a tudásgyűjteményt ember és AI is fel tudja dolgozni; a weboldal ennek az olvasásra formázott változata.
+
+## Mivel készülnek az ábrák?
+
+Az eszközt ahhoz választjuk, amit az ábrának meg kell mutatnia. Az eszközkészlet részei:
+
+- **SVG, Graphviz és PlantUML:** pontos rajzok, kapcsolati ábrák és folyamatdiagramok.
+- **Matplotlib:** függvények, mért adatok és matematikai összefüggések ábrázolása.
+- **FreeCAD és POV-Ray:** térbeli modellek, műszaki és térbeli szemléltetés.
+- **Generatív AI-képgenerálás:** bannerek, illusztrációk és a megértést segítő infografikák.
+
+Nem minden oldalon szerepel mindenféle ábra. Az AI a tervezésben és az eszközök használatában is segíthet; a kész képnél a feliratokat, összefüggéseket és nyílirányokat is ellenőrizzük. A műszaki pontosságot igénylő rajzokat nem helyettesítjük pusztán látványos képekkel.
+
 ## Mit találsz itt?
 
 - **[Jegyzetsablon](https://github.com/school-notes-hub/llm-school-notes-template)** – a jegyzetekhez használt közös szerkezet, szabályok és eszközök. Ebből más is elindíthatja a saját, privát jegyzetgyűjteményét.
-- **[Benedek tanulóoldala](https://github.com/school-notes-hub/benedek9)** és **[Barna tanulóoldala](https://github.com/school-notes-hub/barna11)** – a készülő weboldalak projektjei. Egyelőre előkészítés alatt állnak, a linkek a repóikra mutatnak.
+- **[Benedek tanulóoldala](https://school-notes-hub.github.io/benedek9/)** és **[Barna tanulóoldala](https://school-notes-hub.github.io/barna11/)** – tantárgyak és témák szerint rendezett jegyzetek, kereséssel és letölthető témaköri PDF-ekkel.
 
 <br />
 
@@ -19,7 +36,7 @@ A jegyzetek befényképezett füzetlapokból, tanári anyagokból és tankönyvi
 
 A füzetfotókat, tankönyveket, tanári eredetiket és a teljes saját jegyzetanyagot privát repókban és fájltárakban kezeljük. Ezekhez csak a kijelölt felhasználók férnek hozzá. A nyilvános tanulóoldalakra kizárólag külön ellenőrzött, közzétehető tartalom kerülhet.
 
-A projekt jelenleg átalakítás alatt áll. A nyilvános sablon már elérhető; a webes megjelenítés és a nyomtatható változatok még készülnek.
+A nyilvános tanulóoldalak és a témaköri PDF-ek már elérhetők. A feldolgozás automatizálása még készül.
 
 ## Felhasználás és visszajelzés
 
