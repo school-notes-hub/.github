@@ -20,3 +20,11 @@ A jegyzetek befényképezett füzetlapokból, tanári anyagokból és tankönyvi
 A füzetfotókat, tankönyveket, tanári eredetiket és a teljes saját jegyzetanyagot privát repókban és fájltárakban kezeljük. Ezekhez csak a kijelölt felhasználók férnek hozzá. A nyilvános tanulóoldalakra kizárólag külön ellenőrzött, közzétehető tartalom kerülhet.
 
 A projekt jelenleg átalakítás alatt áll. A nyilvános sablon már elérhető; a webes megjelenítés és a nyomtatható változatok még készülnek.
+
+## Felhasználás és visszajelzés
+
+A saját, szerzői joggal védett tanulási tartalmak – az eltérően jelölt részek kivételével – **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.hu)** licencűek: nem kereskedelmi célra megoszthatók és átdolgozhatók, a School Notes Hub, az anyag címe, forráslinkje és a licenc megjelölésével. A módosítást jelezni kell, és a megosztott átdolgozásra ugyanez a licenc vonatkozik. Ez a saját jegyzetekből készülő PDF-ekre és az ugyanígy megjelölt saját tanulási médiákra is érvényes.
+
+Az átvett képek és más külső elemek saját licence és forrásjelölése megmarad. A tanári eredetik, tankönyvek és füzetfotók nem válnak szabadon felhasználhatóvá; a licenc nem hoz létre új jogokat közkincsben vagy szerzői jogi védelem alatt nem álló AI-tartalomban. A programkód licencelése külön kérdés.
+
+A feldolgozásban OpenAI-, Anthropic- és más AI-modellek segítenek. A gondos ellenőrzés mellett is előfordulhat emberi vagy gépi tévedés; az emberi átnézést az AI nem helyettesíti. Tartalmi vagy szerzői jogi kérdés a megfelelő tanulóoldal GitHub-repójának **Issues** felületén jelezhető: [Benedek](https://github.com/school-notes-hub/benedek9/issues/new/choose), [Barna](https://github.com/school-notes-hub/barna11/issues/new/choose). Személyes adatot és privát forrásanyagot ne tegyél nyilvános hibajegybe.
